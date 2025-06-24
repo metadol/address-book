@@ -4,8 +4,7 @@
 
 ---
 
-## ✅ Features Covered in This App (with Emoji Cheat Sheet)
-
+## ✅ Features Covered in This App
 | Feature                     | Emoji | Where It's Used                                 |
 |----------------------------|:-----:|--------------------------------------------------|
 | Basic Routing              | 🧭    | `root.tsx`, `routes/`                            |
