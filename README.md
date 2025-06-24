@@ -1,4 +1,4 @@
-# 🧠 What Is React Router?
+# What Is React Router?
 
 **React Router** is a declarative routing library for React that lets you manage navigation, nested layouts, route-based data loading, and more — all based on the URL.
 
