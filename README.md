@@ -5,17 +5,18 @@
 ---
 
 ## ✅ Features Covered in This App
-| Feature                     | Emoji | Where It's Used                                 |
-|----------------------------|:-----:|--------------------------------------------------|
-| Basic Routing              | 🧭    | `root.tsx`, `routes/`                            |
-| Nested Routes              | 🧬    | `Outlet` in `root.tsx` and child route files     |
-| Route Loaders (`loader`)   | 🔁    | `root.tsx`, `contacts.tsx`, `$contactId.tsx`     |
-| Form Actions (`action`)    | 📨    | `$contactId.tsx`, `new.tsx`                      |
-| Layout Routes              | 🧱    | `root.tsx` acts as the app layout                |
-| Error Boundaries           | 🧨    | `root.tsx`, `$contactId.tsx`                     |
-| Link Navigation            | 🔗    | `Link` components in all files                   |
-| Controlled Forms           | 🧪    | `ContactForm.tsx`, `new.tsx`                     |
-| Dynamic Routes             | 🧾    | `$contactId.tsx` (`$` prefix = dynamic param)    |
+| Feature                   | Where It's Used                                  |
+|--------------------------|---------------------------------------------------|
+| Basic Routing            | `root.tsx`, `routes/`                             |
+| Nested Routes            | `Outlet` in `root.tsx` and child route files      |
+| Route Loaders (`loader`) | `root.tsx`, `contacts.tsx`, `$contactId.tsx`      |
+| Form Actions (`action`)  | `$contactId.tsx`, `new.tsx`                       |
+| Layout Routes            | `root.tsx` acts as the app layout                 |
+| Error Boundaries         | `root.tsx`, `$contactId.tsx`                      |
+| Link Navigation          | `Link` components in all files                    |
+| Controlled Forms         | `ContactForm.tsx`, `new.tsx`                      |
+| Dynamic Routes           | `$contactId.tsx` (`$` prefix = dynamic param)     |
+
 
 ---
 
